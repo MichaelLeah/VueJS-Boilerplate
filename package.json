@@ -1,0 +1,29 @@
+{
+  "name": "vuejs-boilerplate",
+  "version": "1.0.0",
+  "description": "A basic skeleton template with VueJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "Michael Leah",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-react": "^6.5.0",
+    "browserify": "^13.0.0",
+    "elixir": "^0.1.2",
+    "gulp": "^3.9.1",
+    "http-server": "^0.9.0",
+    "laravel-elixir": "^5.0.0",
+    "laravel-elixir-vueify": "^1.0.3"
+  },
+  "dependencies": {
+    "vue": "^1.0.21",
+    "vue-resource": "^0.7.0",
+    "vueify": "^8.3.9"
+  }
+}
